@@ -41,14 +41,6 @@ F1-Score
 
 BM25 outperformed all models in all metrics, but AraBERT and SBERT showed strong semantic understanding.
 
-📊 Results Summary
-Model	Top-1 Accuracy	Recall@5	Precision@5	F1-Score
-TF-IDF	0.68	0.72	0.65	0.66
-BM25	0.85	0.89	0.83	0.86
-SBERT	0.80	0.85	0.76	0.78
-AraBERT	0.83	0.87	0.79	0.81
-
-📌 Note: These are sample values. Refer to actual results in the paper/notebook.
 
 🔮 Future Work
 Use cross-encoders for better semantic matching.
