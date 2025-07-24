@@ -68,7 +68,6 @@ Combine traditional + neural methods for hybrid retrieval systems.
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/arabic-medical-qa.git
 cd arabic-medical-qa
 pip install -r requirements.txt
 To test a model (e.g., BM25):
