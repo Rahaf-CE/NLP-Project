@@ -1,34 +1,6 @@
 🩺 Arabic Medical Question Answering System
 Using Traditional IR Methods and Transformer-Based Models
-📂 Project Structure
-bash
-Copy
-Edit
-arabic-medical-qa/
-├── data/
-│   ├── raw/              # Original dataset files
-│   ├── cleaned/          # Cleaned and preprocessed data
-│
-├── notebooks/
-│   ├── 01_preprocessing.ipynb
-│   ├── 02_tfidf_cosine.ipynb
-│   ├── 03_bm25.ipynb
-│   ├── 04_sbert.ipynb
-│   ├── 05_arabert.ipynb
-│   └── 06_evaluation.ipynb
-│
-├── models/
-│   └── pretrained/       # Optional: saved embeddings or fine-tuned models
-│
-├── results/
-│   └── charts/           # Accuracy, Precision, F1 visualizations
-│
-├── utils/
-│   └── preprocessing.py  # Tokenization, normalization, cleaning functions
-│
-├── README.md
-├── requirements.txt
-└── main.py               # Optional script to run models or evaluate interactively
+         
 🔍 Dataset
 Source: Kaggle – Arabic Medical Q&A Dataset
 
